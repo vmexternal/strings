@@ -23,7 +23,6 @@ pedrin.cc0!
 gosth.gg
 api-three.pedrin.cc
 ovh-01.pedrin.cc
-131.196.198.50
 api.projectcheats.com
 projectcheats.com
 stoppedbypass
