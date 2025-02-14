@@ -31,3 +31,4 @@ api.monesy.dev
 monesy.dev
 api.idandev.xyz
 idandev.xyz
+	skript.gg
