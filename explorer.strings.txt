@@ -1,1 +1,8 @@
 usbdeview-x64.zip
+chromeservice.exe
+keyauth.win
+Telegram.exe
+usbdeview-x64.zip
+usbdeview-x64
+launcher.exe
+launcher
