@@ -33,3 +33,4 @@ api.idandev.xyz
 idandev.xyz
 	skript.gg
 skript.gg
+73 00 6b 00 72 00 69 00 70 00 74 00 2e 00 67 00 67 00 
