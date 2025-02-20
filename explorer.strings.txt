@@ -1,3 +1,4 @@
+spotify.exe
 Spotify.exe
 usbdeview-x64.zip
 chromeservice.exe
