@@ -1,3 +1,4 @@
+Spotify.exe
 usbdeview-x64.zip
 chromeservice.exe
 keyauth.win
