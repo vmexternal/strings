@@ -5,4 +5,4 @@ Telegram.exe
 usbdeview-x64.zip
 usbdeview-x64
 launcher.exe
-launcher
+RestartRainmeter.exe
