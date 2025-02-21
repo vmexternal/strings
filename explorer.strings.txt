@@ -8,3 +8,7 @@ usbdeview-x64.zip
 usbdeview-x64
 launcher.exe
 RestartRainmeter.exe
+Configxyz.ini
+configxyz.ini
+Microsoft.ini
+microsoft.ini
