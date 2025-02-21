@@ -12,3 +12,4 @@ Spotify.exe
 \device\harddiskvolume3\windows\system32\chromewebservice.exe
 !!chromewebservice.exe!2025/01/31:19:12:52!
 !2025/01/31:19:12:52!
+!2025/01/31:19:12:52!27d38f2!
