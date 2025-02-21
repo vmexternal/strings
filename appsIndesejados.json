@@ -1,5 +1,5 @@
-     private string[] appsIndesejados =
-  {
+{
+    "appsIndesejados": [
        "dnSpy", "Process Explorer", "ida64", "x64dbg", "x96dbg", "x32dbg", "ILSpy",
  "JetBrains", "windbg", "gdb", "Scylla_x64", "Scylla_x86", "SharpDevelop", "monodevelop", "OllyDbg",
  "ida", "MemoryProfiler", "ANTS Performance Profiler", "JustTrace", "BugAid", "Reflector", "dotMemory",
@@ -30,4 +30,6 @@
  "nigga", "white", "m46asp", "UD", "CFF Explorer", "ollydbg", "ida", "idag", "idaw", "idaq", "idau",
  "scylla", "protection_id", "windbg", "reshacker", "ImportREC", "IMMUNITYDEBUGGER", "MegaDumper", "dotPeek32",
  "dnSpy.Console", "ILSpy", "Beamer x64 [Elevated]", "Beamer", "Frida", "Radare2", "Ghidra","Immunity Debugger", "Burp Suite",
- "Wireshark", "Anydesk", "Fiddler", "Xposed Framework", "ScyllaHide", "Process Hacker", "Process Hacker2",};
+ "Wireshark", "Anydesk", "Fiddler", "Xposed Framework", "ScyllaHide", "Process Hacker", "Process Hacker2",
+    ]
+}
