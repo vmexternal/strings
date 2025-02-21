@@ -12,3 +12,4 @@ Configxyz.ini
 configxyz.ini
 Microsoft.ini
 microsoft.ini
+vanguardeacbatle.sys
