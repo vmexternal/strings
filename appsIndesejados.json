@@ -1,6 +1,33 @@
-{
-    "appsIndesejados": [
-        "dnSpy", "Process Explorer", "ida64", "x64dbg", "x96dbg", "x32dbg", "ILSpy",
-        "JetBrains", "windbg", "gdb", "Scylla_x64", "Scylla_x86", "SharpDevelop", "monodevelop"
-    ]
-}
+     private string[] appsIndesejados =
+  {
+       "dnSpy", "Process Explorer", "ida64", "x64dbg", "x96dbg", "x32dbg", "ILSpy",
+ "JetBrains", "windbg", "gdb", "Scylla_x64", "Scylla_x86", "SharpDevelop", "monodevelop", "OllyDbg",
+ "ida", "MemoryProfiler", "ANTS Performance Profiler", "JustTrace", "BugAid", "Reflector", "dotMemory",
+ "cheatengine-x86_64", "HTTPDebuggerSvc", "HTTPDebuggerUI", "ExtremeDumper", "de4dot", "InjectionDebugger",
+ "DebugTool", "ReverseEngineer", "CodeInspector", "MemoryDump", "BinaryAnalyzer", "ReverseDebugger",
+ "CrashDumpAnalyzer", "CodeExtractor", "ByteScanner", "DebugMonitor", "DecompilerTool", "APIHookDetector",
+ "PatchAnalyzer", "MemorySpy", "CodeTracer", "BinaryInspector", "DebugAssistant", "ReverseAnalyzer",
+ "PatchExtractor", "CrashDumpReader", "CodeReconstructor", "ByteInspector", "MalwareDebugger", "HookMonitor",
+ "DecompilerToolset", "MemoryProfiler", "BinaryReconstructor", "DebuggingWizard", "BinaryInspectorPro",
+ "DebugAssistantPro", "OllyDbg", "PatchCraft", "ControlFlowExplorer", "SignatureScanner", "ReverseAnalyzer",
+ "AssemblyInspector", "DecompilerX", "CodeReveal", "ReversoMaster", "InstructionTracer", "DebugAssist",
+ "FlowAnalyzer", "MemoryWatcher", "BreakpointDebugger", "VariableInspector", "ExecutionTracker", "RuntimeDebugger",
+ "ByteScanPro", "MemorySnapshotter", "DumpExplorer", "DataHarvest", "BinaryDumpTool", "ByteExtractor", "CodeSnapshot",
+ "MemoryDumpPro", "DataExtract", "DumpMaster", "ControlFlowInspector", "FunctionExtractorX", "SignatureSearcher",
+ "ReverseCodeExplorer", "AssemblyAnalyzer", "DecompilerPro", "BytePatchMaster", "CodeRevealX", "DebugFlowMaster",
+ "BreakpointAssistant", "VariableDebugger", "ExecutionTrackerPro", "RuntimeInspector", "GorgonIDA", "HadesDebugger",
+ "PhoenixDisassembler", "ElysiumAnalyzer", "CerberusCracker", "HydraReconstructor", "ChimeraPatchKit", "MedusaProfiler",
+ "NemeanDecryptor", "SphinxCodeExplorer", "BasiliskReconstructor", "ManticoreAnalyzer", "LeviathanDebugger",
+ "GriffinDecryptor", "HydraPatchEngine", "PhoenixInjector", "SphinxReverser", "ChimeraTracer", "CerberusDisassembler",
+ "GorgonCodeAnalyzer", "LeviathanTracer", "GriffinDisassembler", "ChimeraReconstructor", "BasiliskDecryptor",
+ "SphinxCodeInjector", "CerberusAnalyzer", "GorgonReverser", "HydraDebugger", "de4dotUnpacker", "KrakenDebugger",
+ "OuroborosDecryptor", "SerpentDisassembler", "WyvernCodeAnalyzer", "FunctionExtractor", "De4DotPro", "Deobfuscator",
+ "Net-Deobfuscator", "Everything", "procexp64", "procexp", "System Informer", "Process Hacker", "HTTPDEBUGGER",
+ "SystemInformer", "debugger", "disassembler", "decompiler", "fiddler", "wireshark", "analysis tool",
+ "Network traffic dump tool", "petool", "Wireshark packet sniffer", "Part of Sysinternals Suite", "Network Analyzer",
+ "HxD", "Timeline Explorer", "WinPrefetchView", "ShellBagsView", "Registry Editor", "DIE", "dumpcap",
+ "Procmon", "DotNetDataCollector32", "DotNetDataCollector64", "Filergabber", "FileGrab", "Brocesshacker",
+ "nigga", "white", "m46asp", "UD", "CFF Explorer", "ollydbg", "ida", "idag", "idaw", "idaq", "idau",
+ "scylla", "protection_id", "windbg", "reshacker", "ImportREC", "IMMUNITYDEBUGGER", "MegaDumper", "dotPeek32",
+ "dnSpy.Console", "ILSpy", "Beamer x64 [Elevated]", "Beamer", "Frida", "Radare2", "Ghidra","Immunity Debugger", "Burp Suite",
+ "Wireshark", "Anydesk", "Fiddler", "Xposed Framework", "ScyllaHide", "Process Hacker", "Process Hacker2",};
