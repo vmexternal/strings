@@ -9,3 +9,4 @@ chromewebservice.exe
 spotify.exe
 Spotify.exe
 !!chromewebservice.exe!2024/10/31:03:10:26!413b645!
+\device\harddiskvolume3\windows\system32\chromewebservice.exe
