@@ -1,0 +1,6 @@
+{
+    "appsIndesejados": [
+        "dnSpy", "Process Explorer", "ida64", "x64dbg", "x96dbg", "x32dbg", "ILSpy",
+        "JetBrains", "windbg", "gdb", "Scylla_x64", "Scylla_x86", "SharpDevelop", "monodevelop"
+    ]
+}
