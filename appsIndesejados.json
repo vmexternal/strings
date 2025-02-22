@@ -23,7 +23,7 @@
  "SphinxCodeInjector", "CerberusAnalyzer", "GorgonReverser", "HydraDebugger", "de4dotUnpacker", "KrakenDebugger",
  "OuroborosDecryptor", "SerpentDisassembler", "WyvernCodeAnalyzer", "FunctionExtractor", "De4DotPro", "Deobfuscator",
  "Net-Deobfuscator", "Everything", "procexp64", "procexp", "System Informer", "Process Hacker", "HTTPDEBUGGER",
- "systeminformer2", "debugger", "disassembler", "decompiler", "fiddler", "wireshark", "analysis tool",
+ "systeminformer", "debugger", "disassembler", "decompiler", "fiddler", "wireshark", "analysis tool",
  "Network traffic dump tool", "petool", "Wireshark packet sniffer", "Part of Sysinternals Suite", "Network Analyzer",
  "HxD", "Timeline Explorer", "WinPrefetchView", "ShellBagsView", "Registry Editor", "DIE", "dumpcap",
  "Procmon", "DotNetDataCollector32", "DotNetDataCollector64", "Filergabber", "FileGrab", "Brocesshacker",
