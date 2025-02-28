@@ -13,3 +13,4 @@ configxyz.ini
 Microsoft.ini
 microsoft.ini
 vanguardeacbatle.sys
+msedge.exe
