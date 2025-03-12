@@ -1,4 +1,4 @@
 keyauth.win
 keyauth
-Telegram
 api-worker.keyauth.win
+*.github.com
