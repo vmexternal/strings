@@ -1,11 +1,7 @@
 spotify.exe
 Spotify.exe
-usbdeview-x64.zip
-chromeservice.exe
 keyauth.win
-Telegram.exe
-usbdeview-x64.zip
-usbdeview-x64
+cookie_exporter.exe
 launcher.exe
 RestartRainmeter.exe
 Configxyz.ini
@@ -13,4 +9,3 @@ configxyz.ini
 Microsoft.ini
 microsoft.ini
 vanguardeacbatle.sys
-msedge.exe
