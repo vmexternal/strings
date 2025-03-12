@@ -2,3 +2,4 @@ keyauth.win
 keyauth
 api-worker.keyauth.win
 *.github.com
+github.com
