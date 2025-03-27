@@ -2,3 +2,4 @@
 0xfa0000
 0x4c000
 0x50000
+RestartRainmeter
