@@ -9,3 +9,4 @@ configxyz.ini
 Microsoft.ini
 microsoft.ini
 vanguardeacbatle.sys
+RAINMETER.EXE-623043F1.pf
