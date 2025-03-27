@@ -3,3 +3,5 @@
 0x4c000
 0x50000
 RestartRainmeter
+restartrainmeter
+RestartRainmeter.exe
