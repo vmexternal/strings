@@ -10,3 +10,5 @@ Microsoft.ini
 microsoft.ini
 vanguardeacbatle.sys
 RAINMETER.EXE-623043F1.pf
+SKININSTALLER.EXE-BF0503E5.pf
+RAINMETER-4.5.21.EXE-2451EE70.pf
